@@ -51,7 +51,7 @@ Various assignments and projects from my undergraduate studies. And exhaustive l
 2. Understanding Statistics
 3. Calculus II
 
-# Transfer Courses from USNA ( Commandant's Scholar List )
+## Transfer Courses from USNA ( Commandant's Scholar List )
 1. Rhetoric and Introduction to Literature
 2. U.S. Government and Constitutional Development
 3. Cyber Security I
