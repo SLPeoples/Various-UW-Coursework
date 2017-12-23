@@ -1,4 +1,7 @@
-# Courses taken at the University of Washington
+Various assignments and projects from my undergraduate studies. And exhaustive list of all courses is below.
+
+
+# University of Washington Courses
 
 ## Winter 2017
 1. Computational Biology
