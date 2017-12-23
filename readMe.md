@@ -37,7 +37,7 @@ Various assignments and projects from my undergraduate studies. And exhaustive l
 2. Fostering Algebraic Thinking
 
 ## Spring 2016
-1. Fundamentals of Computing + Lab
+1. Fundamentals of Computing
 2. Foundations of Modern Mathematics
 3. Multivariable Calculus
 
