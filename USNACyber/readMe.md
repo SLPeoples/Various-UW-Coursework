@@ -1,4 +1,4 @@
-#SY110 Course Goals
+# SY110 Course Goals
 
 The fundamental goal of SY110 is that students acquire:
 
