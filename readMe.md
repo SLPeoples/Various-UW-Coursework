@@ -3,8 +3,6 @@ Various assignments and projects from my undergraduate studies. And exhaustive l
 
 # University of Washington Courses
 
-GRE SCORES :  VERBAL:154  QUANT:152  ANAL/WRITE:050 
-
 ## Winter 2017
 1. Computational Biology
 2. Real Analysis I
