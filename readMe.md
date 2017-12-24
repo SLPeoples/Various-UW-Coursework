@@ -1,4 +1,4 @@
-Various assignments and projects from my undergraduate studies. And exhaustive list of all courses is below.
+Various assignments, proofs, and projects from my undergraduate studies. And exhaustive list of all courses is below.
 
 
 # University of Washington Courses
